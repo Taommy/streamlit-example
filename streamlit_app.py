@@ -1,5 +1,3 @@
-!pip install PyYAML
-!pip install BeautifulSoup4
 import streamlit as st
 from eastmoneyapi import EastmoneyApi
 from extractor import *
